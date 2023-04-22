@@ -1,4 +1,4 @@
 # dushcode
 --------------------
 
-Open source web-based text editor usig MONACO JS
+Open source web-based text editor usig MONACO JS 
